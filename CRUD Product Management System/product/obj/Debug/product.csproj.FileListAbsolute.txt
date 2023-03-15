@@ -1,0 +1,31 @@
+D:\DataBase Videos\product\product\bin\Debug\product.exe.config
+D:\DataBase Videos\product\product\bin\Debug\product.exe
+D:\DataBase Videos\product\product\bin\Debug\product.pdb
+D:\DataBase Videos\product\product\obj\Debug\product.csprojResolveAssemblyReference.cache
+D:\DataBase Videos\product\product\obj\Debug\product.Form1.resources
+D:\DataBase Videos\product\product\obj\Debug\product.Properties.Resources.resources
+D:\DataBase Videos\product\product\obj\Debug\product.csproj.GenerateResource.Cache
+D:\DataBase Videos\product\product\obj\Debug\product.exe
+D:\DataBase Videos\product\product\obj\Debug\product.pdb
+D:\OOP Lessons\DataBase Videos\product\product\bin\Debug\product.exe.config
+D:\OOP Lessons\DataBase Videos\product\product\obj\Debug\product.exe
+D:\OOP Lessons\DataBase Videos\product\product\obj\Debug\product.pdb
+D:\OOP Lessons\DataBase Videos\product\product\bin\Debug\product.exe
+D:\OOP Lessons\DataBase Videos\product\product\bin\Debug\product.pdb
+D:\OOP Lessons\DataBase Videos\product\product\obj\Debug\product.csprojResolveAssemblyReference.cache
+D:\OOP Lessons\DataBase Videos\product\product\obj\Debug\product.Form1.resources
+D:\OOP Lessons\DataBase Videos\product\product\obj\Debug\product.Properties.Resources.resources
+D:\OOP Lessons\DataBase Videos\product\product\obj\Debug\product.csproj.GenerateResource.Cache
+D:\OOP Lessons\DataBase Videos\CRUD OOP tindahan\product\bin\Debug\product.exe.config
+D:\OOP Lessons\DataBase Videos\CRUD OOP tindahan\product\obj\Debug\product.exe
+D:\OOP Lessons\DataBase Videos\CRUD OOP tindahan\product\obj\Debug\product.pdb
+D:\OOP Lessons\DataBase Videos\CRUD OOP tindahan\product\bin\Debug\product.exe
+D:\OOP Lessons\DataBase Videos\CRUD OOP tindahan\product\bin\Debug\product.pdb
+D:\OOP Lessons\DataBase Videos\CRUD OOP tindahan\product\obj\Debug\product.csprojResolveAssemblyReference.cache
+D:\OOP Lessons\DataBase Videos\CRUD OOP tindahan\product\obj\Debug\product.Form1.resources
+D:\OOP Lessons\DataBase Videos\CRUD OOP tindahan\product\obj\Debug\product.Properties.Resources.resources
+D:\OOP Lessons\DataBase Videos\CRUD OOP tindahan\product\obj\Debug\product.csproj.GenerateResource.Cache
+C:\Visual Studio Console C# Project\CRUD Product Management System\product\obj\Debug\product.csproj.AssemblyReference.cache
+C:\Visual Studio Console C# Project\CRUD Product Management System\product\obj\Debug\product.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Console C# Project\CRUD Product Management System\product\obj\Debug\product.exe
+C:\Visual Studio Console C# Project\CRUD Product Management System\product\obj\Debug\product.pdb
